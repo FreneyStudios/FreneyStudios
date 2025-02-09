@@ -6,6 +6,9 @@
 - 😄 Pronouns: How/Why?!
 - ⚡ Fun fact: if you read my description, you're smart
 
+Website
+studios.freney.com 
+
 <!---
 FreneyStudios/FreneyStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
