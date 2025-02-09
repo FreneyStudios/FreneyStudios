@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,Fl Studio,Blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me go to saturn and turn left twice 
-- 😄 Pronouns: ...
+- 😄 Pronouns: How/Why?!
 - ⚡ Fun fact: if you read my description, you're smart
 
 <!---
