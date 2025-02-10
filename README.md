@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FreneyStudios
 - 👀 I’m interested in Tecnology,Aviation,Music
 - 🌱 I’m currently learning Python,Fl Studio,Blender
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OSDEV stuff: cavOS, Linux, NASM, maslOS. Python Transformers (even if I know only a little AI)
 - 📫 How to reach me go to saturn and turn left twice 
 - 😄 Pronouns: How/Why?!
 - ⚡ Fun fact: if you read my description, you're smart
